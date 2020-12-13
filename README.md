@@ -5,12 +5,13 @@
 ## PREREQUISITE
 
 - Install at least one code editor 
-- Install Ruby to exectute the project
+- Install Ruby to execute the project
 
 ## GETTING STARTED
 
 - clone the repository `$ git clone https://github.com/pacyL2K19/bubble_sort.git`
-- Run the command ruby bubble_sort.rb 
+- go to the project directory `$ cd bubble_sort`
+- Run the command `$ ruby bubble_sort.rb`
 
 ## Built With
 

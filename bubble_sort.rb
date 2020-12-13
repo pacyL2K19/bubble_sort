@@ -17,7 +17,6 @@ def bubble_sort(arr)
 		sorted = !exchanged ? true : false;
 		p arr
 	end
-	# p arr
 	arr
 end
 
@@ -34,9 +33,11 @@ def bubble_sort_by(arr)
     end
     break if swapped == false
   end
-  p arr
+  arr
 end
 
 bubble_sort_by(['hi', 'hello', 'hey']) do |left, right|
   left.length - right.length
 end
+
+
